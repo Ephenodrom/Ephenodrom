@@ -8,7 +8,7 @@ All-in-one crossplatform ([Android](https://play.google.com/store/apps/details?i
 
 PowerSample Live is an easy-to-use crossplatform ([Android](https://play.google.com/store/apps/details?id=de.feuerbergsoftware.samplepad_live)/[iOS/macOS](https://apps.apple.com/us/app/powersample-live/id1602906575)/[Windows](https://www.microsoft.com/en-us/p/powersample-live/9P08ZP9QZ2SS)) sampler to play different sounds in any situation.  
 
-### PowerSample Live
+### Simple DNS
 
 Simple and straightforward crossplatform ([Android](https://play.google.com/store/apps/details?id=de.feuerbergsoftware.simple_dns)/[iOS/macOS](https://apps.apple.com/us/app/simple-dns/id1645591739)/[Windows](https://apps.microsoft.com/store/detail/simple-dns/9NG0RGCKPNKW)) tool for DNS lookup.
 
