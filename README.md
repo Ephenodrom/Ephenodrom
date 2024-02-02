@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Support my work and consider checking out one of my apps!
+
 ### SSL Toolkit
 
 All-in-one crossplatform ([Android](https://play.google.com/store/apps/details?id=de.feuerbergsoftware.ssl_checker)/[iOS/macOS](https://apps.apple.com/app/apple-store/id1547278785?pt=122415037&ct=GithubLink&mt=8)/[Windows](https://www.microsoft.com/en-us/p/ssl-toolkit/9nc62bnkndvx)) toolkit for SSL, including SSL install check, TLS check, PEM parser, CSR generator and certificate transparency log check.
