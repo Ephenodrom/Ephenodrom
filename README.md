@@ -14,9 +14,9 @@ Supercharge your API integration with effortless mocking, logging and on the fly
 
 PowerSample Live is an easy-to-use crossplatform ([Android](https://play.google.com/store/apps/details?id=de.feuerbergsoftware.samplepad_live)/[iOS/macOS](https://apps.apple.com/us/app/powersample-live/id1602906575)/[Windows](https://www.microsoft.com/en-us/p/powersample-live/9P08ZP9QZ2SS)) sampler to play different sounds in any situation.  
 
-### Simple DNS
+### DNS Toolkit
 
-Simple and straightforward crossplatform ([Android](https://play.google.com/store/apps/details?id=de.feuerbergsoftware.simple_dns)/[iOS/macOS](https://apps.apple.com/us/app/simple-dns/id1645591739)/[Windows](https://apps.microsoft.com/store/detail/simple-dns/9NG0RGCKPNKW)) tool for DNS lookup.
+Comprehensive DNS Management and Diagnostic Tools for [macOS](https://apps.apple.com/us/app/dns-toolkit/id6535647812). Master DNS lookups with ease!
 
 <!--
 **Ephenodrom/Ephenodrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
